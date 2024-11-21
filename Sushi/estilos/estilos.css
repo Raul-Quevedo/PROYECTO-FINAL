@@ -191,6 +191,7 @@ main{
 .titulo2{
     width: 1366px;
     height: 40px;
+    background-image:url(../imagenes/inicio.png);
 }
 /* FOOTER COMIENZO */
 .pie{
