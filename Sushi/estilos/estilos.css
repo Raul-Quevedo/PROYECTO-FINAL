@@ -187,6 +187,11 @@ main{
     font-weight: 700;
     font-style: normal;
 }
+
+.titulo2{
+    width: 1366px;
+    height: 40px;
+}
 /* FOOTER COMIENZO */
 .pie{
     height: 200px;
